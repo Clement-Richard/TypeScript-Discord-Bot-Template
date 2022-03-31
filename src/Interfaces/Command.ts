@@ -2,7 +2,7 @@ import { Bot } from "../Client/Client"
 import { CommandInteraction, Message } from "discord.js"
 
 export interface RunClassic {
-    (client: Bot, message: Message, args: string[]): Promise<void>;
+    (client: Bot, message: Message, args: any[]): Promise<void>;
 }
 
 export interface RunSlashCommand {
