@@ -10,7 +10,7 @@
   <ol>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prérequis</a></li>
+        <li><a href="#prérequis">Prérequis</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -24,7 +24,7 @@
 Voici la configuration requise pour installer ce projet localement.
 Pour obtenir une copie locale opérationnelle, suivez ces étapes d'exemple simples.
 
-### Prerequisites
+### Prérequis
 
 * Node.js
 <a href="https://nodejs.org/fr/">Node.js Downloads</a>
