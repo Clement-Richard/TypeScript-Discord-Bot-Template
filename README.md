@@ -39,8 +39,6 @@ Pour obtenir une copie locale opérationnelle, suivez ces étapes d'exemple simp
 
 ### Installation
 
-_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
-
 1. Créer un nouveau bot sur [Discord Developper Applications](https://discord.com/developers/applications)
 2. Cloner le repo
    ```sh
