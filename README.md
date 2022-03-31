@@ -44,13 +44,25 @@ Pour obtenir une copie locale opérationnelle, suivez ces étapes d'exemple simp
    ```sh
    git clone https://github.com/SkyDroxy/TypeScript-Discord-Bot-Template.git
    ```
-3. Installer les packages
+3. Modifier le package.json
+   ```sh
+    npm init
+   ```
+4. Installer les packages
    ```sh
    yarn
    ```
-4. Entrez le token de votre bot dans le .env
+5. Entrez le token de votre bot dans le .env
    ```env
    BOTTOKEN= 'TokenBot';
    ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<!-- USAGE EXAMPLES -->
+## Usage
+  ```sh
+   npm start
+  ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
