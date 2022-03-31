@@ -17,3 +17,42 @@
     <li><a href="#usage">Usage</a></li>
   </ol>
 </details>
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Voici la configuration requise pour installer ce projet localement.
+Pour obtenir une copie locale opérationnelle, suivez ces étapes d'exemple simples.
+
+### Prerequisites
+
+* Node.js
+<a href="https://nodejs.org/fr/">Node.js Downloads</a>
+
+* npm
+  ```sh
+  npm install @types/node -g
+  npm install ts-node@10.7.0 -g
+  npm install typescript -g
+  npm install yarn -g
+  ```
+
+### Installation
+
+_Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
+
+1. Créer un nouveau bot sur [Discord Developper Applications](https://discord.com/developers/applications)
+2. Cloner le repo
+   ```sh
+   git clone https://github.com/SkyDroxy/TypeScript-Discord-Bot-Template.git
+   ```
+3. Installer les packages
+   ```sh
+   yarn
+   ```
+4. Entrez le token de votre bot dans le .env
+   ```env
+   BOTTOKEN= 'TokenBot';
+   ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
